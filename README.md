@@ -10,7 +10,7 @@
 <p align="center">
   <strong>Distributed AI research system - worker client and public API</strong><br>
   Community-powered. Human-verified. Built for science.<br><br>
-  <a href="https://opengen.live">opengen.live</a> <sup>(coming soon)</sup> · 
+  <a href="https://opengen.live">opengen.live</a> <sup>(Is live but - soon)</sup> · 
   <a href="#quickstart">Quickstart</a> · 
   <a href="docs/architecture.md">Architecture</a> · 
   <a href="docs/verification-system.md">Verification system</a> · 
@@ -210,15 +210,15 @@ Found a vulnerability? See [SECURITY.md](SECURITY.md). Do not open a public issu
 
 ## Founders
 
-**Imasola** — a small startup from Germany.
+**Imasola** - a small startup from Germany.
 
-> *"We believe that community-driven infrastructure can contribute to scientific progress in ways that centralized companies cannot — through transparency, community verification, and open access."*
+> *"We believe that community-driven infrastructure can contribute to scientific progress in ways that centralized companies cannot - through transparency, community verification, and open access."*
 
 ---
 
 ## License
 
-[MIT License](LICENSE) — the worker client, shared models, API client, and all code in this repository are open source.
+[MIT License](LICENSE) - the worker client, shared models, API client, and all code in this repository are open source.
 
 The Master Agent, pipeline agents, knowledge graph engine, and research scheduler are closed source and run on the founders' infrastructure.
 
