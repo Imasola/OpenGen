@@ -8,7 +8,7 @@
 <h1 align="center">OpenGen</h1>
 
 <p align="center">
-  <strong>Distributed AI research system — worker client and public API</strong><br>
+  <strong>Distributed AI research system - worker client and public API</strong><br>
   Community-powered. Human-verified. Built for science.<br><br>
   <a href="https://opengen.live">opengen.live</a> <sup>(coming soon)</sup> · 
   <a href="#quickstart">Quickstart</a> · 
@@ -21,15 +21,15 @@
 
 ## What is OpenGen?
 
-OpenGen is a distributed AI system that researches scientific topics around the clock, improves its own results through an iterative multi-agent pipeline, and stores verified knowledge in a connected graph — like a living encyclopedia that grows every day.
+OpenGen is a distributed AI system that researches scientific topics around the clock, improves its own results through an iterative multi-agent pipeline, and stores verified knowledge in a connected graph - like a living encyclopedia that grows every day.
 
 What makes it different:
 
 - **Every result is verified by real humans** before it becomes permanent knowledge
-- **The entire research process is transparent** — anyone can watch it live on opengen.live
+- **The entire research process is transparent** - anyone can watch it live on opengen.live
 - **Anyone can contribute compute power** by running the open-source worker program
-- **The knowledge graph is open** — searchable and queryable through a free public API
-- **Coordinated manipulation is actively detected** — protecting against industry lobbying and organized influence campaigns
+- **The knowledge graph is open** - searchable and queryable through a free public API
+- **Coordinated manipulation is actively detected** - protecting against industry lobbying and organized influence campaigns
 
 OpenGen is not a chatbot. It is an open, community-verified AI knowledge network.
 
@@ -95,7 +95,7 @@ OpenGen follows the **Open Core** licensing model, used by companies like GitLab
 | Knowledge graph engine | Closed source | Founders' server |
 | Research scheduler | Closed source | Founders' server |
 
-**Why?** The Master Agent is OpenGen's core intelligence — the part that plans research, orchestrates agents, and maintains knowledge quality. Keeping it closed source protects the integrity of the system and prevents bad actors from reverse-engineering the research process. Everything you need to **contribute to** and **benefit from** OpenGen is open source.
+**Why?** The Master Agent is OpenGen's core intelligence - the part that plans research, orchestrates agents, and maintains knowledge quality. Keeping it closed source protects the integrity of the system and prevents bad actors from reverse-engineering the research process. Everything you need to **contribute to** and **benefit from** OpenGen is open source.
 
 ---
 
